@@ -11,6 +11,6 @@ Repositorio personal donde alojaré las **prácticas, ejercicios y proyectos** d
 
 **Universidad Autónoma de Occidente**
 
-**Eddie Santiago Delgado Campo, Sebastián Leiton Goyes, Christian David Home**  
+**Eddie Santiago Delgado Campo, Sebastián Leiton Goyes, Christian David Home Acero**  
 
 *Ingeniería Informática*
